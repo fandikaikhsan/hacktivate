@@ -2,7 +2,6 @@
 This repo's purposes is to fulfill hacktivate's tasks and projects.
 
 
-===============================================================================
 Tasks will be organized based on their assignment phase and week.
 Its important to make sure your name was correct before commiting to repo.
 
@@ -18,6 +17,4 @@ File name format:
 So, after following these name formatting above, it will be written as "P02_W02_D3_fandikaikhsan_Done".
 
 
-
-===================================================
 Any futher information will be updated here.  
